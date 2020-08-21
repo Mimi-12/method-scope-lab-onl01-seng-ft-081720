@@ -1,4 +1,4 @@
-rescue_princess_peach
+
 def rescue_princess_peach
   status = NameError
   status = "rescued"
